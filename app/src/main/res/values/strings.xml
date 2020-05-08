@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">E-healthApp</string>
+    <string name="patients_in_queue">Patients </string>
+</resources>
